@@ -1,0 +1,10 @@
+{
+  "name": "tao-personal-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tao's personal portfolio website",
+  "scripts": {
+    "build": "node build.mjs",
+    "start": "node build.mjs"
+  }
+}
